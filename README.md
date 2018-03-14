@@ -1,0 +1,2 @@
+# NoteDump
+Anonymous encrypted notes.
